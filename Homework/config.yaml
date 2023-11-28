@@ -1,0 +1,6 @@
+url: "https://test-stand.gb.ru/gateway/login"
+login: "SvetlanaLapteva"
+password: "7b162bac7e"
+url_get: "https://test-stand.gb.ru/api/posts"
+url_post: "https://test-stand.gb.ru/api/posts?_ga=2.98834590.1031290318.1700754000-1809671657.1700754000"
+ttl: "post-test2"
