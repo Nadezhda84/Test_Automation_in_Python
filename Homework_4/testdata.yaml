@@ -1,0 +1,15 @@
+address: 'https://test-stand.gb.ru'
+browser: 'chrome'
+sleep_time: 2
+login: 'SvetlanaLapteva'
+password: '7b162bac7e'
+test_email: 'user@user.ru'
+
+login_api: 'gateway/login'
+post: 'api/posts'
+url: https://test-stand.gb.ru/gateway/login
+url_post: https://test-stand.gb.ru/api/posts
+title: 'uytu tyu ty'
+not_my_title: 'Test title'
+description: 'Котофеич'
+content: 'Иван Петрович'
